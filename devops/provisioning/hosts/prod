@@ -1,0 +1,2 @@
+[prod]
+prod ansible_ssh_user=ubuntu
